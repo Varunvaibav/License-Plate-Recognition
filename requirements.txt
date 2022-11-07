@@ -3,9 +3,6 @@ coremltools==6.0
 easyocr==1.6.2
 matplotlib==3.5.3
 numpy==1.22.4
-onnx==1.12.0
-onnx_graphsurgeon==0.0.1.dev5
-onnxsim==0.4.8
 opencv_python_headless==4.5.4.60
 pafy==0.5.5
 pandas==1.5.1
