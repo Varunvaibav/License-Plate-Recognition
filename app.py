@@ -193,5 +193,5 @@ elif selected_type == "Upload Video":
                                         ):
                     download_success()
         
-        cv2.destroyAllWindows()
+        
         
