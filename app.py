@@ -140,7 +140,6 @@ elif selected_type == "Live Video Feed":
             FRAME_WINDOW.image(frame)
     else:
         cap.release()
-        cv2.destroyAllWindows()
         st.warning('⚠ The Web-Camera is currently disabled. 😯')
 
 # Code for Video as input
